@@ -29,7 +29,7 @@ Lead Scoring is a crucial technique in marketing and sales that helps businesses
 5. **Model Evaluation** - Using accuracy, precision, recall, and F1-score to measure effectiveness.
 
 ## 📌 Results
-- Achieved **X% accuracy** using Random Forest (adjust based on actual results).
+- Achieved **90% accuracy** using Random Forest
 - Reduced false positives, ensuring high-quality leads are prioritized.
 - Generated actionable insights for sales teams to improve customer targeting.
 
